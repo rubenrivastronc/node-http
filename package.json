@@ -1,0 +1,24 @@
+{
+  "name": "node-http",
+  "version": "0.0.1",
+  "description": "Curso con Nodejs y modulo colors + http",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rubenrivastronc/NodeJS-test"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "Ruben",
+  "license": "ISC"
+}
